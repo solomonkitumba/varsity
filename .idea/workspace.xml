@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="aeb5a066-1609-4532-ade4-ce8de845a3d3" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
+=======
+<<<<<<< HEAD
+    <list default="true" id="aeb5a066-1609-4532-ade4-ce8de845a3d3" name="Default" comment="" />
+=======
+    <list default="true" id="aeb5a066-1609-4532-ade4-ce8de845a3d3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/._blog-archive.html" afterPath="$PROJECT_DIR$/._blog-archive.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-archive.html" afterPath="$PROJECT_DIR$/blog-archive.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+>>>>>>> eb63ec8af079d120c0bb012be174cad8b13a453d
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> d670552456d47d488db0352ba21011bfecbd17ce
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +39,33 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="360">
               <caret line="117" column="76" lean-forward="false" selection-start-line="117" selection-start-column="76" selection-end-line="117" selection-end-column="76" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="12180">
+              <caret line="812" column="107" lean-forward="false" selection-start-line="812" selection-start-column="107" selection-end-line="812" selection-end-column="107" />
+=======
+            <state relative-caret-position="360">
+              <caret line="117" column="76" lean-forward="false" selection-start-line="117" selection-start-column="76" selection-end-line="117" selection-end-column="76" />
+>>>>>>> eb63ec8af079d120c0bb012be174cad8b13a453d
+>>>>>>> d670552456d47d488db0352ba21011bfecbd17ce
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1084">
+              <caret line="172" column="45" lean-forward="false" selection-start-line="172" selection-start-column="45" selection-end-line="172" selection-end-column="45" />
+=======
+>>>>>>> d670552456d47d488db0352ba21011bfecbd17ce
       <file leaf-file-name="._blog-archive.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/._blog-archive.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -53,6 +91,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
+=======
+>>>>>>> eb63ec8af079d120c0bb012be174cad8b13a453d
+>>>>>>> d670552456d47d488db0352ba21011bfecbd17ce
               <folding />
             </state>
           </provider>
@@ -70,6 +112,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/contact.html" />
+=======
+        <option value="$PROJECT_DIR$/._blog-archive.html" />
+        <option value="$PROJECT_DIR$/blog-archive.html" />
+>>>>>>> eb63ec8af079d120c0bb012be174cad8b13a453d
+      </list>
+    </option>
+  </component>
+>>>>>>> d670552456d47d488db0352ba21011bfecbd17ce
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -192,7 +250,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="3370000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="3032000" />
+=======
+    <option name="totallyTimeSpent" value="2738000" />
+>>>>>>> eb63ec8af079d120c0bb012be174cad8b13a453d
+>>>>>>> d670552456d47d488db0352ba21011bfecbd17ce
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1360" height="744" extended-state="6" />
@@ -245,6 +311,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> d670552456d47d488db0352ba21011bfecbd17ce
         <state relative-caret-position="360">
           <caret line="117" column="76" lean-forward="false" selection-start-line="117" selection-start-column="76" selection-end-line="117" selection-end-column="76" />
           <folding />
@@ -253,12 +324,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/._blog-single.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+=======
+>>>>>>> eb63ec8af079d120c0bb012be174cad8b13a453d
+>>>>>>> d670552456d47d488db0352ba21011bfecbd17ce
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7526">
+          <caret line="282" column="39" lean-forward="false" selection-start-line="282" selection-start-column="39" selection-end-line="282" selection-end-column="39" />
+=======
+>>>>>>> d670552456d47d488db0352ba21011bfecbd17ce
     <entry file="file://$PROJECT_DIR$/._blog-archive.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -271,6 +355,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="419">
           <caret line="154" column="41" lean-forward="false" selection-start-line="154" selection-start-column="41" selection-end-line="154" selection-end-column="41" />
+<<<<<<< HEAD
+=======
+>>>>>>> eb63ec8af079d120c0bb012be174cad8b13a453d
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12180">
+          <caret line="812" column="107" lean-forward="false" selection-start-line="812" selection-start-column="107" selection-end-line="812" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1084">
+          <caret line="172" column="45" lean-forward="false" selection-start-line="172" selection-start-column="45" selection-end-line="172" selection-end-column="45" />
+>>>>>>> d670552456d47d488db0352ba21011bfecbd17ce
           <folding />
         </state>
       </provider>
